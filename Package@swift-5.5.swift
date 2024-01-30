@@ -26,7 +26,7 @@
 import PackageDescription
 
 let package = Package(name: "AlamofireImage",
-                      platforms: [.iOS(.v10),
+                      platforms: [.iOS(.v13),
                                   .macOS(.v10_12),
                                   .tvOS(.v10),
                                   .watchOS(.v3)],
